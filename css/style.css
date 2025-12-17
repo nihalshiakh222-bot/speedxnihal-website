@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #000;
+  color: #fff;
+}
+
+.header {
+  padding: 15px;
+  background: #111;
+}
+
+.header a {
+  color: #0f0;
+  text-decoration: none;
+}
+
+.page {
+  padding: 20px;
+}
+
+h1 {
+  color: #0f0;
+}
+
+input, textarea, button {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  background: #0f0;
+  font-weight: bold;
+  cursor: pointer;
+}
